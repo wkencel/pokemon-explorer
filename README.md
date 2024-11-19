@@ -6,7 +6,7 @@ A web application to explore Pokémon data using the PokeAPI.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pokemon-explorer.git
+   git clone https://github.com/wkencel/pokemon-explorer.git
    cd pokemon-explorer
    ```
 
